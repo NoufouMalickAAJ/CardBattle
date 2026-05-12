@@ -31,4 +31,3 @@ Installation et démarrage:
    - "i" pour ouvrir sur iOS (simulateur)
    - "a" pour ouvrir sur Android (émulateur)
    - "w" pour ouvrir sur le Web
-   - "j" pour ouvrir le mode de débogage
